@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1732280956 source:z:\documents\s-102\s102_projet_codeblocks\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1734704815 source:z:\documents\s-102\s102_projet_codeblocks\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"personnage.h"
+
+1733491676 source:z:\documents\s-102\s102_projet_codeblocks\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1734702118 source:z:\documents\s-102\s102_projet_codeblocks\s102\src\personnage.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+
+1734704441 source:z:\documents\s-102\s102_projet_codeblocks\s102\src\tuile.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Image.h"
+	"Tuile.h"
+
+1736183167 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736458551 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+
+1736183167 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736458479 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\personnage.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Niveau.h"
+
+1736203246 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\tuile.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Image.h"
+	"Tuile.h"
+
+1736202520 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\dictionnaire.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	"personnage.h"
+	"Moteur.h"
+	"Image.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+
+1736458481 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\objet.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Objet.h"
+	"Image.h"
+
+1736458623 source:c:\users\ilyac\onedrive\bureau\work\but\s102\s102\src\niveau.cpp
+	"Niveau.h"
+	<fstream>
+	<sstream>
+
+1736519927 source:z:\documents\s-102\s102\s102\src\dictionnaire.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	"personnage.h"
+	"Moteur.h"
+	"Image.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+
+1736520105 source:z:\documents\s-102\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736517757 source:z:\documents\s-102\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"personnage.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+
+1736520321 source:z:\documents\s-102\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+	"Dictionnaire.h"
+	"Image.h"
+	"Niveau.h"
+	"Objet.h"
+	"personnage.h"
+	"Tuile.h"
+
+1736520177 source:z:\documents\s-102\s102\s102\src\niveau.cpp
+	"Niveau.h"
+	<fstream>
+	<sstream>
+
+1736520234 source:z:\documents\s-102\s102\s102\src\objet.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Objet.h"
+	"Image.h"
+
+1736458478 source:z:\documents\s-102\s102\s102\src\personnage.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Niveau.h"
+
+1736203246 source:z:\documents\s-102\s102\s102\src\tuile.cpp
+	<vector>
+	"personnage.h"
+	"Moteur.h"
+	"Image.h"
+	"Tuile.h"
+
