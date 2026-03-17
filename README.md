@@ -2,7 +2,7 @@
 
 Pixel Quest est un jeu d'aventure en 2D (Pixel Art) développé en C++ utilisant la bibliothèque graphique SDL2.
 
-## 🚀 Installation et Lancement
+##  Installation et Lancement
 
 ### Prérequis
 Vous devez avoir installé les bibliothèques suivantes sur votre système :
